@@ -15,6 +15,11 @@ Pas një faze testimi rigoroz midis arkitekturave të ndryshme (Random Forest, L
 3. **AI Inference:** Parashikimi i anomalive përmes modeleve të trajnuara (.pkl).
 4. **Reporting:** Gjenerimi i raporteve klinike PDF me hash unik për integritet të dhënash.
 
+📂 Dataset & Data Samples
+Për shkak të madhësisë së madhe të skedarëve binarë dhe imazheve mjekësore, datasetet e plota nuk janë përfshirë në këtë repository.
+
+Për testim: Përdorni skedarët në folderin samples_of_data/.
+
 ## 📦 Instalimi
 ```bash
 git clone [https://github.com/Klaudioo/Telemedicine.git](https://github.com/Klaudioo/Telemedicine.git)
