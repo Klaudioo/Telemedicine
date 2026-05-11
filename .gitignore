@@ -1,0 +1,10 @@
+__pycache__/
+*.pdf
+*.pkl
+temp_plot.png
+temp_ekg.png
+.venv/
+.vscode/
+imazhet_e_pacienteve/
+imazhet_kvasir/
+te_dhenat_e_pacienteve/*.dat
